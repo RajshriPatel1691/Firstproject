@@ -1,12 +1,13 @@
-![logo](https://github.com/RajshriPatel1691/RajshriPatel1691/blob/main/python.jpg)
+
 <h1 align="center">Hi 👋, I'm Rajshri Patel</h1>
 <h3 align="center">A passionate Full Stack Developer from India </h3>
+<img src="https://github.com/RajshriPatel1691/RajshriPatel1691/blob/main/python.jpg?raw=true" alt="Python Logo" width="1000">
 
 <img align="right" alt="Coding" width="300" src="https://github.com/RajshriPatel1691/Firstproject/blob/main/img.png">
 <!-- <img align="right" alt="Coding Girl" width="300" src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2284.jpg"> -->
 <!-- <img align="right" alt="Coding Girl" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
-
+📫 How to reach me: rajshripatel2001@gmail.com
 
 <!-- - 🔭 I’m currently working on **Web & AI projects**
 - 🌱 I’m currently learning **Next.js & Data Science**
